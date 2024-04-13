@@ -68,7 +68,7 @@ def create_wordcloud(seg_stop_words_list, pic_path='./Tree.png'):
 # Main program
 url = "https://www.bbc.com/zhongwen/trad/topics/c83plve5vmjt?page=%s"
 headers = {
-    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0"
+    "User-Agent":"your_user_agent"
 }
 pages = 5  #scrape 5 pages
 all_articles = scrape_articles(url, headers, pages)
