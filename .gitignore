@@ -1,9 +1,9 @@
 # 記住要忽略的資料夾
-. gitignore
 .newsenv
 # 檔案名稱
 # .240318ptt.py
 .requirements0413.txt
+.gitignore
 main_news_wordcloud.ipynb
 
 # 資料夾名稱
