@@ -71,7 +71,7 @@ url = "https://www.bbc.com/zhongwen/trad/topics/c83plve5vmjt?page=%s"
 headers = {
     "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0"
 }
-pages = 5  #  scrape 5 pages
+pages = 5  #scrape 5 pages
 all_articles = scrape_articles(url, headers, pages)
 print(all_articles,'success!')
 
