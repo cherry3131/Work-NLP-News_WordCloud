@@ -12,7 +12,8 @@
 
 3.Select the image for the word cloud shape
 
-![image](https://github.com/cherry3131/Work-NLP-News_WordCloud/assets/140130666/9cb0420b-4023-4a3b-b4ae-bbdef8d7e0a2)
+![image](https://github.com/cherry3131/Work-NLP-News_WordCloud/assets/140130666/70aaa7be-3556-403b-ab55-0d84e30241fa)
+
 
 4. Create News_WordCloud
    it will output the picture at the same time.
