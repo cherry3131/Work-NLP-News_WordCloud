@@ -65,7 +65,6 @@ def create_wordcloud(seg_stop_words_list, pic_path='./Tree.png'):
 
     print("create!")
 
-
 # Main program
 url = "https://www.bbc.com/zhongwen/trad/topics/c83plve5vmjt?page=%s"
 headers = {
